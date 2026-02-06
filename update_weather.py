@@ -6,9 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# 지니뮤직 트로트 장르 차트 URL
 TROT_URL = "https://www.genie.co.kr/chart/genre?ditc=D&ymd=20240522&genrecode=L0107"
-# 크롤링 차단 방지를 위한 헤더 설정
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'
 }
@@ -41,14 +39,14 @@ def update_readme():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     readme_content = f"""
-# 🎤 Real-time Trot Ranking
+# Real-time Trot Ranking
 
 이 리포지토리는 지니뮤직 데이터를 활용하여 실시간 트로트 순위를 자동으로 업데이트합니다.
 
 ## 🏆 실시간 트로트 TOP 5
 {trot_info}
 
-⏳ 업데이트 시간: {now} (KST)
+ 업데이트 시간: {now} (KST)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
