@@ -6,14 +6,14 @@
 ---
 
 ### 👤 오늘의 행운 아바타
-![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260613&backgroundColor=b6e3f4)
+![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260614&backgroundColor=b6e3f4)
 
 ### 📜 오늘의 운세
-**"예상치 못한 곳에서 소중한 인연을 만날지도 몰라요! ✨"**
+**"새로운 도전을 시작하기에 아주 완벽한 날이에요! 🚀"**
 
 ### 🍀 오늘의 데이터
-* **행운 지수**: `67%`
-* **행운의 아이템**: `무선 이어폰`
+* **행운 지수**: `59%`
+* **행운의 아이템**: `좋아하는 노래`
 
 ---
-⏳ 마지막 업데이트: 2026-06-13 02:45:29 (KST)
+⏳ 마지막 업데이트: 2026-06-14 02:56:59 (KST)
