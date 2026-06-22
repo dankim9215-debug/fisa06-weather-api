@@ -6,14 +6,14 @@
 ---
 
 ### 👤 오늘의 행운 아바타
-![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260621&backgroundColor=b6e3f4)
+![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260622&backgroundColor=c0aede)
 
 ### 📜 오늘의 운세
-**"그동안 고민하던 일이 드디어 해결될 기미가 보여요. ✔️"**
+**"새로운 도전을 시작하기에 아주 완벽한 날이에요! 🚀"**
 
 ### 🍀 오늘의 데이터
-* **행운 지수**: `69%`
-* **행운의 아이템**: `오래된 동전`
+* **행운 지수**: `98%`
+* **행운의 아이템**: `노란색 양말`
 
 ---
-⏳ 마지막 업데이트: 2026-06-21 03:25:28 (KST)
+⏳ 마지막 업데이트: 2026-06-22 03:31:35 (KST)
