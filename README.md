@@ -6,14 +6,14 @@
 ---
 
 ### 👤 오늘의 행운 아바타
-![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260907&backgroundColor=d1d4f9)
+![Lucky Avatar](https://api.dicebear.com/7.x/pixel-art/svg?seed=20260908&backgroundColor=ffd5dc)
 
 ### 📜 오늘의 운세
 **"오늘은 맛있는 걸 먹으면 행운이 두 배가 됩니다. 🍕"**
 
 ### 🍀 오늘의 데이터
-* **행운 지수**: `85%`
-* **행운의 아이템**: `좋아하는 노래`
+* **행운 지수**: `94%`
+* **행운의 아이템**: `따뜻한 아메리카노`
 
 ---
-⏳ 마지막 업데이트: 2026-09-07 02:16:08 (KST)
+⏳ 마지막 업데이트: 2026-09-08 02:28:39 (KST)
